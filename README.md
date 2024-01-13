@@ -1,4 +1,5 @@
 Login-Register Web Application
+
 Welcome to the Login-Register web application! This project provides a simple authentication system where users can log in or register, and their information is stored in a MySQL database. The technologies used in this project include HTML, CSS, JSP, JDBC, Servlet, and MySQL.
 
 Table of Contents
